@@ -14,6 +14,25 @@ https://link.springer.com/rwe/10.1007/978-3-031-76014-3_1-1
 A conceptual model and case study of blockchain-enabled social media platform
 https://www.sciencedirect.com/science/article/pii/S0166497222001572
 
+"Tokenization of social media engagements increases the sharing of false (and other) news but penalization moderates it"
+https://www.nature.com/articles/s41598-023-40716-2; it is from Aug 2023, so no excuse to miss it.
+
+"Data Cooperative for Trusted News Sharing in Social Media", BlockTEA'22, https://link.springer.com/chapter/10.1007/978-3-031-31420-9_7
+This one is more blockchain technology oriented, and hence will make some blockchain concepts more accurately understood. 
+
+"A social media platform using blockchain technology: topic analysis & sentiment analysis of steemit user-generated content", ICBCT'22, https://dl.acm.org/doi/fullHtml/10.1145/3532640.3532661; I noticed the authors cited its 2024 follow-up, but they didn't discuss insights from existing examples.
+
+"From automation to authenticity: blockchain as a remedy to AI-enhanced social media activism", the newest one Jan 2026, https://link.springer.com/article/10.1007/s00146-026-02867-4
+
+"Blockchain and E-Participation: New Affordances and Challenges for Digital Political Participation", https://onlinelibrary.wiley.com/doi/10.1002/pa.70087
+
+Freni, P., Ferro, E. & Ceci, G. Fixing social media with the blockchain. In Proceedings of the 6th EAI International Conference on Smart Objects and Technologies for Social Good 175–180 (2020).
+
+Guidi, B. When blockchain meets online social networks. Pervasive Mob. Comput. 62, 101131 (2020).
+8-Ba, C. T., Zignani, M. & Gaito, S. The role of cryptocurrency in the dynamics of blockchain-based social networks: The case of steemit. PLoS ONE 17(6), 0267612 (2022).
+
+Guidi, B. & Michienzi, A. users and bots behaviour analysis in blockchain social media. In 2020 Seventh International Conference on Social Networks Analysis, Management and Security (SNAMS) 1–8 (IEEE, 2020).
+
 "The socio-technical assemblages of blockchain system: how blockchains are framed and how the framing reflects societal contexts"
 This one could be a little irrelevant, and out dated (2020), but they might explore this part"
 The sociopolitical implications of Korean blockchains are examined to identify key concerns and issues as the country progresses rapidly toward a blockchain-driven society."
