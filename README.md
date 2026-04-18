@@ -11,6 +11,9 @@ https://www.sciencedirect.com/science/article/pii/S0963868725000162
 "Empowering Users in the Digital Age: Blockchain-Enabled Social Media for Web 3.0"
 https://link.springer.com/rwe/10.1007/978-3-031-76014-3_1-1
 
+Worldnetwork proof of human : https://x.com/vicepepe/status/2045213789809684655,
+within the quote and the original tweet: a 42 min video + the links to all related entities + the impact on token prices.
+
 A conceptual model and case study of blockchain-enabled social media platform
 https://www.sciencedirect.com/science/article/pii/S0166497222001572
 
