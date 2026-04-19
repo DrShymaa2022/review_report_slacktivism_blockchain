@@ -1,6 +1,13 @@
 The folder is to add full text material of references I suggested to the authors and may not be freely available online
 
-Additional, freely available, material:
+Important note:
+---------------
+This Jan 2026 paper (Springer AI Society) discusses nearly the exact same topic
+https://www.researchgate.net/publication/400002550_From_automation_to_authenticity_blockchain_as_a_remedy_to_AI-enhanced_social_media_activism/figures
+The authors should read the paper to learn from it, look at the figures for example, and include it in their citation and discussions. However, take care of the orientation; your paper is directed to a digital democracy journal and hence should concentrate on the aspects related to that. That's why I insist on discussing and comparing such existing platforms according the aspects in concern. 
+
+Also, Additional freely available on material include:
+-------------------------------------------------------
 
 "The Application of Blockchain in Social Media: A Systematic Literature Review"
 https://www.mdpi.com/2076-3417/12/13/6567
@@ -28,6 +35,8 @@ This one is more blockchain technology oriented, and hence will make some blockc
 "From automation to authenticity: blockchain as a remedy to AI-enhanced social media activism", the newest one Jan 2026, https://link.springer.com/article/10.1007/s00146-026-02867-4
 
 "Blockchain and E-Participation: New Affordances and Challenges for Digital Political Participation", https://onlinelibrary.wiley.com/doi/10.1002/pa.70087
+full paper available at:
+https://www.researchgate.net/publication/396972297_Blockchain_and_E-Participation_New_Affordances_and_Challenges_for_Digital_Political_Participation
 
 Freni, P., Ferro, E. & Ceci, G. Fixing social media with the blockchain. In Proceedings of the 6th EAI International Conference on Smart Objects and Technologies for Social Good 175–180 (2020).
 
