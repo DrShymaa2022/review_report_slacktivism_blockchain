@@ -21,6 +21,9 @@ https://link.springer.com/rwe/10.1007/978-3-031-76014-3_1-1
 Worldnetwork proof of human : https://x.com/vicepepe/status/2045213789809684655,
 within the quote and the original tweet: a 42 min video + the links to all related entities + the impact on token prices.
 
+Online meeting (21/5) about another decentralized digital ID solution (Hiero Heka) where you can discuss and ask quetions:
+https://www.meetup.com/lfdt-silicon-valley/events/314285079/?utm_medium=email&utm_source=braze_canvas&utm_campaign=mmrk_alleng_event_announcement_prod_unfiltered_v7_en&utm_term=promo&utm_content=lp_meetup&dispatch_id=69deaf805a23fd10f8d4ab78bb66f21c
+
 A conceptual model and case study of blockchain-enabled social media platform
 https://www.sciencedirect.com/science/article/pii/S0166497222001572
 
