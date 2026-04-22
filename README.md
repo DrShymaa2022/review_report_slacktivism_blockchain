@@ -1,4 +1,4 @@
-The folder is to add full text material of references I suggested to the authors and may not be freely available online
+The folder is to add full text material of references I suggested to the authors and may not be freely available online; there is a lecture material (although not by me) and the manuscript with detailed line by line comments embeded within text (https://github.com/DrShymaa2022/review_report_slacktivism_blockchain/blob/main/jedem_neoSlacktivism_reviewed.pdf)
 
 Important note:
 ---------------
