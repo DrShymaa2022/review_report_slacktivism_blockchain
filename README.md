@@ -1,4 +1,4 @@
-The folder is to add full text material of references I suggested to the authors and may not be freely available online; there is a lecture material (although not by me) and the manuscript with detailed line by line comments embeded within text (https://github.com/DrShymaa2022/review_report_slacktivism_blockchain/blob/main/jedem_neoSlacktivism_reviewed.pdf)
+This folder is to add full text material of references I suggested to the authors and may not be freely available online; there is a lecture material (although not by me) and the manuscript with detailed line by line comments embeded within text (https://github.com/DrShymaa2022/review_report_slacktivism_blockchain/blob/main/jedem_neoSlacktivism_reviewed.pdf)
 
 Important note:
 ---------------
@@ -62,3 +62,9 @@ https://www.sciencedirect.com/science/article/pii/S2666378324000126
 
 Civic Logic: Social media with opinion and purpose
 https://knightcolumbia.org/blog/civic-logic-social-media-with-opinion-and-purpose
+
+..........................................
+------------------------------------------
+Finally, Addressing why decentralization is important for AI (maybe interesting for another paper for the same authors; could be discussed from an impact on Digital Democracy perspective, which I get the sense it is the main field of the authors of this interdisciplinary paper)
+https://youtu.be/7ELqJwE_qGE
+
